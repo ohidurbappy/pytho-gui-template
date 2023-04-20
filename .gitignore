@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+app.build/
+app.dist/
+app.onefile-build/
